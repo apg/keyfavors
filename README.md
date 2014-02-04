@@ -1,4 +1,4 @@
-# Keyfavors - A simple tool to use after a keysigning party
+# Keyfavors - A simple way to sign a bunch of keys
 
 ## Summary
 
