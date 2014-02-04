@@ -3,7 +3,7 @@
 ## Summary
 
 `keyfavors` is a simple script that assists you in signing public keys
-verified at a [Keysigning party](). 
+verified at a [Keysigning party](https://en.wikipedia.org/wiki/Key_signing_party). 
 
 ## Installation
 
